@@ -1,0 +1,4 @@
+.trapezium {
+    position: relative;/* Change to your desired background color */
+    clip-path: polygon(0 0, 100% 0, 79% 100%, 0 100%);
+}
